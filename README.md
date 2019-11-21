@@ -5,6 +5,9 @@
 - David G. Andersen, Jason Franklin, Michael Kaminsky, Amar Phanishayee, Lawrence Tan, Vijay Vasudevan,  
 "[FAWN: A Fast Array of Wimpy Nodes](http://www.cs.cmu.edu/~fawnproj/papers/fawn-sosp2009.pdf)," SOSP, 2009.
 
+- Giuseppe DeCandia, Deniz Hastorun, Madan Jampani, Gunavardhan Kakulapati, Avinash Lakshman, Alex Pilchin, Swaminathan Sivasubramanian, Peter Vosshall, Werner Vogels,  
+"[Dynamo: Amazon's Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)," SOSP, 2007.
+
 ## Security
 
 - Dongdong She, Kexin Pei, Dave Epstein, Junfeng Yang, Baishakhi Ray, Suman Jana,  
