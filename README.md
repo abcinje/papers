@@ -2,6 +2,9 @@
 
 ## Operating Systems
 
+- Jinliang Wei, Wei Dai, Aurick Qiao, Qirong Ho, Henggang Cui, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, and Eric P. Xing,  
+"[Managed Communication and Consistency for Fast Data-Parallel Iterative Analytics](https://www.cs.cmu.edu/~epxing/papers/2015/Wei_etal_SoCC15.pdf)," SoCC, 2015.
+
 - David G. Andersen, Jason Franklin, Michael Kaminsky, Amar Phanishayee, Lawrence Tan, and Vijay Vasudevan,  
 "[FAWN: A Fast Array of Wimpy Nodes](http://www.cs.cmu.edu/~fawnproj/papers/fawn-sosp2009.pdf)," SOSP, 2009.
 
