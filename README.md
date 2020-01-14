@@ -1,5 +1,10 @@
 # Papers
 
+## File Systems
+
+- [ ] Mendel Rosenblum and John K. Ousterhout,  
+"[The Design and Implementation of a Log-Structured File System](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)," SOSP, 1991.
+
 ## Key-Value Stores
 
 - [x] David G. Andersen, Jason Franklin, Michael Kaminsky, Amar Phanishayee, Lawrence Tan, and Vijay Vasudevan,  
