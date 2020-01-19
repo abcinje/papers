@@ -2,7 +2,10 @@
 
 ## File Systems
 
-- [ ] Mendel Rosenblum and John K. Ousterhout,  
+- [ ] Changman Lee, Dongho Sim, Joo-Young Hwang, and Sangyeun Cho,  
+"[F2FS: A New File System for Flash Storage](https://www.usenix.org/system/files/conference/fast15/fast15-paper-lee.pdf)," FAST, 2015.
+
+- [x] Mendel Rosenblum and John K. Ousterhout,  
 "[The Design and Implementation of a Log-Structured File System](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)," SOSP, 1991.
 
 ## Key-Value Stores
