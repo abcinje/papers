@@ -8,7 +8,13 @@
 - [x] Mendel Rosenblum and John K. Ousterhout,  
 "[The Design and Implementation of a Log-Structured File System](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)," SOSP, 1991.
 
+- [ ] Marshall Kirk McKusick, William N. Joy, Samuel J. Leffler, and Robert S. Fabry,  
+"[A Fast File System for UNIX](https://people.eecs.berkeley.edu/~brewer/cs262/FFS.pdf)," TOCS, 1984.
+
 ## Key-Value Stores
+
+- [ ] Anastasios Papagiannis, Giorgos Saloustros, Pilar González-Férez, and Angelos Bilas,  
+"[Tucana: Design and implementation of a fast and efficient scale-up key-value store](https://www.usenix.org/system/files/conference/atc16/atc16_paper-papagiannis.pdf)," ATC, 2016.
 
 - [x] David G. Andersen, Jason Franklin, Michael Kaminsky, Amar Phanishayee, Lawrence Tan, and Vijay Vasudevan,  
 "[FAWN: A Fast Array of Wimpy Nodes](http://www.cs.cmu.edu/~fawnproj/papers/fawn-sosp2009.pdf)," SOSP, 2009.
@@ -31,6 +37,9 @@
 
 - [x] Dae R. Jeong, Kyungtae Kim, Basavesh Shivakumar, Byoungyoung Lee, and Insik Shin,  
 "[Razzer: Finding Kernel Race Bugs through Fuzzing](https://lifeasageek.github.io/papers/jeong-razzer.pdf)," Oakland, 2019.
+
+- [ ] Moritz Lipp, Michael Schwarz, Daniel Gruss, Thomas Prescher, Werner Haas, Anders Fogh, Jann Horn, Stefan Mangard, Paul Kocher, Daniel Genkin, Yuval Yarom, and Mike Hamburg,  
+"[Meltdown: Reading Kernel Memory from User Space](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-lipp.pdf)," Security, 2018.
 
 - [ ] Tyler Hunt, Zhiting Zhu, Yuanzhong Xu, Simon Peter, and Emmett Witchel,  
 "[Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data](https://www.usenix.org/system/files/conference/osdi16/osdi16-hunt.pdf)," OSDI, 2016.
