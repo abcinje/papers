@@ -21,6 +21,9 @@
 - [ ] Jinliang Wei, Wei Dai, Aurick Qiao, Qirong Ho, Henggang Cui, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, and Eric P. Xing,  
 "[Managed Communication and Consistency for Fast Data-Parallel Iterative Analytics](https://www.cs.cmu.edu/~epxing/papers/2015/Wei_etal_SoCC15.pdf)," SoCC, 2015.
 
+- [ ] Jeffrey Dean and Sanjay Ghemawat,  
+"[MapReduce: Simplified Data Processing on Large Clusters](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/dean/dean.pdf)," OSDI, 2004.
+
 ## Security
 
 - [x] Dongdong She, Kexin Pei, Dave Epstein, Junfeng Yang, Baishakhi Ray, and Suman Jana,  
@@ -28,6 +31,9 @@
 
 - [x] Dae R. Jeong, Kyungtae Kim, Basavesh Shivakumar, Byoungyoung Lee, and Insik Shin,  
 "[Razzer: Finding Kernel Race Bugs through Fuzzing](https://lifeasageek.github.io/papers/jeong-razzer.pdf)," Oakland, 2019.
+
+- [ ] Tyler Hunt, Zhiting Zhu, Yuanzhong Xu, Simon Peter, and Emmett Witchel,  
+"[Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data](https://www.usenix.org/system/files/conference/osdi16/osdi16-hunt.pdf)," OSDI, 2016.
 
 - [x] Yuanzhong Xu, Weidong Cui, and Marcus Peinado,  
 "[Controlled-Channel Attacks: Deterministic Side Channels for Untrusted Operating Systems](https://www.ieee-security.org/TC/SP2015/papers-archived/6949a640.pdf)," Oakland, 2015.
