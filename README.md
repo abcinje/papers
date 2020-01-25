@@ -8,12 +8,12 @@
 - [x] Mendel Rosenblum and John K. Ousterhout,  
 "[The Design and Implementation of a Log-Structured File System](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)," SOSP, 1991.
 
-- [ ] Marshall Kirk McKusick, William N. Joy, Samuel J. Leffler, and Robert S. Fabry,  
+- [x] Marshall Kirk McKusick, William N. Joy, Samuel J. Leffler, and Robert S. Fabry,  
 "[A Fast File System for UNIX](https://people.eecs.berkeley.edu/~brewer/cs262/FFS.pdf)," TOCS, 1984.
 
 ## Key-Value Stores
 
-- [ ] Anastasios Papagiannis, Giorgos Saloustros, Pilar González-Férez, and Angelos Bilas,  
+- [x] Anastasios Papagiannis, Giorgos Saloustros, Pilar González-Férez, and Angelos Bilas,  
 "[Tucana: Design and implementation of a fast and efficient scale-up key-value store](https://www.usenix.org/system/files/conference/atc16/atc16_paper-papagiannis.pdf)," ATC, 2016.
 
 - [x] David G. Andersen, Jason Franklin, Michael Kaminsky, Amar Phanishayee, Lawrence Tan, and Vijay Vasudevan,  
@@ -29,6 +29,12 @@
 
 - [ ] Jeffrey Dean and Sanjay Ghemawat,  
 "[MapReduce: Simplified Data Processing on Large Clusters](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/dean/dean.pdf)," OSDI, 2004.
+
+## Solid-State Drives
+
+- [ ] Mei-Ling Chiang, Paul C. H. Lee, and Ruei-Chuan Chang,  
+"[Using Data Clustering to Improve Cleaning Performance for Flash Memory](https://www.iis.sinica.edu.tw/page/library/TechReport/tr1998/tr98011.pdf)," Softw. Pract. Exper., 1999.
+
 
 ## Security
 
