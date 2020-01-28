@@ -16,6 +16,9 @@
 - [x] Anastasios Papagiannis, Giorgos Saloustros, Pilar González-Férez, and Angelos Bilas,  
 "[Tucana: Design and implementation of a fast and efficient scale-up key-value store](https://www.usenix.org/system/files/conference/atc16/atc16_paper-papagiannis.pdf)," ATC, 2016.
 
+- [ ] Lanyue Lu, Thanumalayan Sankaranarayana Pillai, Andrea C. Arpaci-Dusseau, and Remzi H. Arpaci-Dusseau,  
+"[WiscKey: Separating Keys from Values in SSD-Conscious Storage](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)," FAST, 2016.
+
 - [x] David G. Andersen, Jason Franklin, Michael Kaminsky, Amar Phanishayee, Lawrence Tan, and Vijay Vasudevan,  
 "[FAWN: A Fast Array of Wimpy Nodes](http://www.cs.cmu.edu/~fawnproj/papers/fawn-sosp2009.pdf)," SOSP, 2009.
 
@@ -24,7 +27,7 @@
 
 ## Systems for Emerging Applications
 
-- [ ] Jinliang Wei, Wei Dai, Aurick Qiao, Qirong Ho, Henggang Cui, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, and Eric P. Xing,  
+- [x] Jinliang Wei, Wei Dai, Aurick Qiao, Qirong Ho, Henggang Cui, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, and Eric P. Xing,  
 "[Managed Communication and Consistency for Fast Data-Parallel Iterative Analytics](https://www.cs.cmu.edu/~epxing/papers/2015/Wei_etal_SoCC15.pdf)," SoCC, 2015.
 
 - [ ] Jeffrey Dean and Sanjay Ghemawat,  
