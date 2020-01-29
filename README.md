@@ -27,6 +27,18 @@
 
 ## Systems for Emerging Applications
 
+- [ ] Yixin Bao, Yanghua Peng, and Chuan Wu,  
+"[Deep Learning-based Job Placement in Distributed Machine Learning Clusters](https://i.cs.hku.hk/~cwu/papers/yxbao-infocom19.pdf)," INFOCOM, 2019.
+
+- [ ] Yuzhen Huang, Tatiana Jin, Yidi Wu, Zhenkun Cai, Xiao Yan, Fan Yang, Jinfeng Li, Yuying Guo, and James Cheng,  
+"[FlexPS: Flexible Parallelism Control in Parameter Server Architecture](http://www.vldb.org/pvldb/vol11/p566-huang.pdf)," VLDB, 2018.
+
+- [ ] Jiawei Jiang, Bin Cui, Ce Zhang, and Lele Yu,  
+"[Heterogeneity-aware Distributed Parameter Servers](https://dl.acm.org/doi/pdf/10.1145/3035918.3035933?download=true)," SIGMOD, 2017.
+
+- [ ] Henggang Cui, Hao Zhang, Gregory R. Ganger, Phillip B. Gibbons, and Eric P. Xing,  
+"[GeePS: Scalable deep learning on distributed GPUs with a GPU-specialized parameter server](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/GeePS-cui-eurosys16.pdf)," EuroSys, 2016.
+
 - [x] Jinliang Wei, Wei Dai, Aurick Qiao, Qirong Ho, Henggang Cui, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, and Eric P. Xing,  
 "[Managed Communication and Consistency for Fast Data-Parallel Iterative Analytics](https://www.cs.cmu.edu/~epxing/papers/2015/Wei_etal_SoCC15.pdf)," SoCC, 2015.
 
@@ -55,6 +67,9 @@
 
 - [x] Yuanzhong Xu, Weidong Cui, and Marcus Peinado,  
 "[Controlled-Channel Attacks: Deterministic Side Channels for Untrusted Operating Systems](https://www.ieee-security.org/TC/SP2015/papers-archived/6949a640.pdf)," Oakland, 2015.
+
+- [ ] Yuval Yarom and Katrina Falkner,  
+"[FLUSH+RELOAD: a High Resolution, Low Noise, L3 Cache Side-Channel Attack](https://eprint.iacr.org/2013/448.pdf)," Security, 2014.
 
 - [x] Konstantin Serebryany and Timur Iskhodzhanov,  
 "[ThreadSanitizer - data race detection in practice](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/35604.pdf)," WBIA, 2009.
