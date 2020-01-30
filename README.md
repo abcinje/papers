@@ -13,6 +13,9 @@
 
 ## Key-Value Stores
 
+- [ ] Oana Balmau, Florin Dinu, Willy Zwaenepoel, Karan Gupta, Ravishankar Chandhiramoorthi, and Diego Didona,  
+"[SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores](https://www.usenix.org/system/files/atc19-balmau.pdf)," ATC, 2019.
+
 - [x] Anastasios Papagiannis, Giorgos Saloustros, Pilar González-Férez, and Angelos Bilas,  
 "[Tucana: Design and implementation of a fast and efficient scale-up key-value store](https://www.usenix.org/system/files/conference/atc16/atc16_paper-papagiannis.pdf)," ATC, 2016.
 
