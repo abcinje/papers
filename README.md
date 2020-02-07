@@ -30,6 +30,9 @@
 
 ## Systems for Emerging Applications
 
+- [ ] Ruben Mayer and Hans-Arno Jacobsen,  
+"[Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques, and Tools](https://dl.acm.org/doi/pdf/10.1145/3363554?download=true)," CSUR, 2020.
+
 - [ ] Yixin Bao, Yanghua Peng, and Chuan Wu,  
 "[Deep Learning-based Job Placement in Distributed Machine Learning Clusters](https://i.cs.hku.hk/~cwu/papers/yxbao-infocom19.pdf)," INFOCOM, 2019.
 
