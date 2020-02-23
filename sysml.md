@@ -1,10 +1,13 @@
 ## Systems for Machine Learning
 
-- [ ] Ruben Mayer and Hans-Arno Jacobsen,  
+- [x] Ruben Mayer and Hans-Arno Jacobsen,  
 "[Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques, and Tools](https://dl.acm.org/doi/pdf/10.1145/3363554?download=true)," CSUR, 2020.
 
 - [ ] Yuzhen Huang, Tatiana Jin, Yidi Wu, Zhenkun Cai, Xiao Yan, Fan Yang, Jinfeng Li, Yuying Guo, and James Cheng,  
 "[FlexPS: Flexible Parallelism Control in Parameter Server Architecture](http://www.vldb.org/pvldb/vol11/p566-huang.pdf)," VLDB, 2018.
+
+- [x] Alexander Sergeev and Mike Del Balso,  
+"[Horovod: fast and easy distributed deep learning in TensorFlow](https://arxiv.org/pdf/1802.05799.pdf)," arXiv preprint, 2018.
 
 - [ ] Hao Zhang, Zeyu Zheng, Shizhen Xu, Wei Dai, Qirong Ho, Xiaodan Liang, Zhiting Hu, Jinliang Wei, Pengtao Xie, and Eric P. Xing,  
 "[Poseidon: An Efficient Communication Architecture for Distributed Deep Learning on GPU Clusters](https://www.usenix.org/system/files/conference/atc17/atc17-zhang.pdf)," ATC, 2017.
@@ -34,5 +37,5 @@ Vijay Vasudevan, Pete Warden, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng,
 - [ ] Trishul Chilimbi, Yutaka Suzue, Johnson Apacible, and Karthik Kalyanaraman,  
 "[Project Adam: Building an Efficient and Scalable Deep Learning Training System](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chilimbi.pdf)," OSDI, 2014.
 
-- [ ] Jeffrey Dean, Greg S. Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Quoc V. Le, Mark Z. Mao, Marc' Aurelio Ranzato, Andrew Senior, Paul Tucker, Ke Yang, and Andrew Y. Ng,  
+- [x] Jeffrey Dean, Greg S. Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Quoc V. Le, Mark Z. Mao, Marc' Aurelio Ranzato, Andrew Senior, Paul Tucker, Ke Yang, and Andrew Y. Ng,  
 "[Large Scale Distributed Deep Networks](https://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf)," NIPS, 2012.
