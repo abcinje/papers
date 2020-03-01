@@ -18,10 +18,13 @@
 - [ ] Oana Balmau, Florin Dinu, Willy Zwaenepoel, Karan Gupta, Ravishankar Chandhiramoorthi, and Diego Didona,  
 "[SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores](https://www.usenix.org/system/files/atc19-balmau.pdf)," ATC, 2019.
 
+- [ ] Helen H. W. Chan, Yongkun Li, Patrick P. C. Lee, and Yinlong Xu,  
+"[HashKV: Enabling Efficient Updates in KV Storage via Hashing](https://www.usenix.org/system/files/conference/atc18/atc18-chan.pdf)," ATC, 2018.
+
 - [x] Anastasios Papagiannis, Giorgos Saloustros, Pilar González-Férez, and Angelos Bilas,  
 "[Tucana: Design and implementation of a fast and efficient scale-up key-value store](https://www.usenix.org/system/files/conference/atc16/atc16_paper-papagiannis.pdf)," ATC, 2016.
 
-- [ ] Lanyue Lu, Thanumalayan Sankaranarayana Pillai, Andrea C. Arpaci-Dusseau, and Remzi H. Arpaci-Dusseau,  
+- [x] Lanyue Lu, Thanumalayan Sankaranarayana Pillai, Andrea C. Arpaci-Dusseau, and Remzi H. Arpaci-Dusseau,  
 "[WiscKey: Separating Keys from Values in SSD-Conscious Storage](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)," FAST, 2016.
 
 - [x] David G. Andersen, Jason Franklin, Michael Kaminsky, Amar Phanishayee, Lawrence Tan, and Vijay Vasudevan,  
