@@ -4,6 +4,11 @@
 
 ## [Systems for Machine Learning](sysml.md)
 
+## OS Design
+
+- [ ] Yizhou Shan, Yutong Huang, Yilun Chen, and Yiying Zhang,  
+"[LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation](https://www.usenix.org/system/files/osdi18-shan.pdf)," OSDI, 2018.
+
 ## Security
 
 - [x] Dongdong She, Kexin Pei, Dave Epstein, Junfeng Yang, Baishakhi Ray, and Suman Jana,  
