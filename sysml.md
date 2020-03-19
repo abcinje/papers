@@ -1,5 +1,8 @@
 ## Systems for Machine Learning
 
+- [x] Abhishek Vijaya Kumar and Muthian Sivathanu,  
+"[Quiver: An Informed Storage Cache for Deep Learning](https://www.usenix.org/system/files/fast20-kumar.pdf)," FAST, 2020.
+
 - [x] Ruben Mayer and Hans-Arno Jacobsen,  
 "[Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques, and Tools](https://dl.acm.org/doi/pdf/10.1145/3363554?download=true)," CSUR, 2020.
 
