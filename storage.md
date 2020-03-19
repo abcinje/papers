@@ -2,14 +2,11 @@
 
 ### Caching
 
-- [ ] Shucheng Wang, Ziyi Lu, Qiang Cao, Hong Jiang, Jie Yao, Yuanyuan Dong, and Puyuan Yang,  
+- [x] Shucheng Wang, Ziyi Lu, Qiang Cao, Hong Jiang, Jie Yao, Yuanyuan Dong, and Puyuan Yang,  
 "[BCW: Buffer-Controlled Writes to HDDs for SSD-HDD Hybrid Storage Server](https://www.usenix.org/system/files/fast20-wang_shucheng.pdf)," FAST, 2020.
 
-- [ ] Ao Wang, Jingyuan Zhang, Xiaolong Ma, Ali Anwar, Lukas Rupprecht, Dimitrios Skourtis, Vasily Tarasov, Feng Yan, and Yue Cheng,  
+- [x] Ao Wang, Jingyuan Zhang, Xiaolong Ma, Ali Anwar, Lukas Rupprecht, Dimitrios Skourtis, Vasily Tarasov, Feng Yan, and Yue Cheng,  
 "[InfiniCache: Exploiting Ephemeral Serverless Functions to Build a Cost-Effective Memory Cache](https://www.usenix.org/system/files/fast20-wang_ao.pdf)," FAST, 2020.
-
-- [ ] Abhishek Vijaya Kumar and Muthian Sivathanu,  
-"[Quiver: An Informed Storage Cache for Deep Learning](https://www.usenix.org/system/files/fast20-kumar.pdf)," FAST, 2020.
 
 ### File Systems
 
