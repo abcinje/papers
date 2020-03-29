@@ -1,4 +1,4 @@
-## Systems for Machine Learning
+## Data Processing
 
 - [x] Abhishek Vijaya Kumar and Muthian Sivathanu,  
 "[Quiver: An Informed Storage Cache for Deep Learning](https://www.usenix.org/system/files/fast20-kumar.pdf)," FAST, 2020.
@@ -42,3 +42,6 @@ Vijay Vasudevan, Pete Warden, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng,
 
 - [x] Jeffrey Dean, Greg S. Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Quoc V. Le, Mark Z. Mao, Marc' Aurelio Ranzato, Andrew Senior, Paul Tucker, Ke Yang, and Andrew Y. Ng,  
 "[Large Scale Distributed Deep Networks](https://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf)," NIPS, 2012.
+
+- [x] Jeffrey Dean and Sanjay Ghemawat,  
+"[MapReduce: Simplified Data Processing on Large Clusters](https://www.usenix.org/legacy/event/osdi04/tech/full_papers/dean/dean.pdf)," OSDI, 2004.

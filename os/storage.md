@@ -43,4 +43,3 @@
 
 - [ ] Mei-Ling Chiang, Paul C. H. Lee, and Ruei-Chuan Chang,  
 "[Using Data Clustering to Improve Cleaning Performance for Flash Memory](https://www.iis.sinica.edu.tw/page/library/TechReport/tr1998/tr98011.pdf)," SPE, 1999.
-
