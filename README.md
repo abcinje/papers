@@ -1,9 +1,9 @@
 # Papers
 
-Operating systems research are mainly dealt with.
+Systems software research is mainly dealt with.
 
 ## Contents
 
-- ### [Operating Systems](os/README.md)
+- ### [Systems Software](syssoft/README.md)
 - ### [Security](security/README.md)
 - ### [Machine Learning](ml/README.md)
