@@ -28,9 +28,6 @@ Vijay Vasudevan, Pete Warden, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng,
 - [ ] Henggang Cui, Hao Zhang, Gregory R. Ganger, Phillip B. Gibbons, and Eric P. Xing,  
 "[GeePS: Scalable deep learning on distributed GPUs with a GPU-specialized parameter server](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/GeePS-cui-eurosys16.pdf)," EuroSys, 2016.
 
-- [ ] Beng Chin Ooi, Kian-Lee Tan, Sheng Wang, Wei Wang, Qingchao Cai, Gang Chen, Jinyang Gao, Zhaojing Luo, Anthony K. H. Tung, Yuan Wang, Zhongle Xie, Meihui Zhang, and Kaiping Zheng,  
-"[SINGA: A Distributed Deep Learning Platform](https://dl.acm.org/doi/pdf/10.1145/2733373.2807410?download=true)," MM, 2015.
-
 - [x] Jinliang Wei, Wei Dai, Aurick Qiao, Qirong Ho, Henggang Cui, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, and Eric P. Xing,  
 "[Managed Communication and Consistency for Fast Data-Parallel Iterative Analytics](https://www.cs.cmu.edu/~epxing/papers/2015/Wei_etal_SoCC15.pdf)," SoCC, 2015.
 
