@@ -1,6 +1,6 @@
 # Papers
 
-Systems software research is mainly dealt with.
+It mainly deals with systems software research.
 
 ## Contents
 
