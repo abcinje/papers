@@ -5,3 +5,6 @@
 
 - [x] Zhe Cao, Tomas Simon, Shih-En Wei, and Yaser Sheikh,  
 "[Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/pdf/1611.08050.pdf)," CVPR, 2017.
+
+- [ ] Priya Goyal, Piotr Dollár, Ross Girshick, Pieter Noordhuis, Lukasz Wesolowski, Aapo Kyrola, Andrew Tulloch, Yangqing Jia, and Kaiming He,  
+"[Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/pdf/1706.02677.pdf)," arXiv preprint, 2017.
