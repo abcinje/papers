@@ -12,7 +12,7 @@
 - [x] Alexander Sergeev and Mike Del Balso,  
 "[Horovod: fast and easy distributed deep learning in TensorFlow](https://arxiv.org/pdf/1802.05799.pdf)," arXiv preprint, 2018.
 
-- [ ] Hao Zhang, Zeyu Zheng, Shizhen Xu, Wei Dai, Qirong Ho, Xiaodan Liang, Zhiting Hu, Jinliang Wei, Pengtao Xie, and Eric P. Xing,  
+- [x] Hao Zhang, Zeyu Zheng, Shizhen Xu, Wei Dai, Qirong Ho, Xiaodan Liang, Zhiting Hu, Jinliang Wei, Pengtao Xie, and Eric P. Xing,  
 "[Poseidon: An Efficient Communication Architecture for Distributed Deep Learning on GPU Clusters](https://www.usenix.org/system/files/conference/atc17/atc17-zhang.pdf)," ATC, 2017.
 
 - [ ] Jiawei Jiang, Bin Cui, Ce Zhang, and Lele Yu,  
@@ -27,6 +27,9 @@ Vijay Vasudevan, Pete Warden, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng,
 
 - [ ] Henggang Cui, Hao Zhang, Gregory R. Ganger, Phillip B. Gibbons, and Eric P. Xing,  
 "[GeePS: Scalable deep learning on distributed GPUs with a GPU-specialized parameter server](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/GeePS-cui-eurosys16.pdf)," EuroSys, 2016.
+
+- [ ] Pengtao Xie, Jin Kyu Kim, Yi Zhou, Qirong Ho, Abhimanu Kumar, Yaoliang Yu, and Eric Xing,  
+"[Distributed Machine Learning via Sufficient Factor Broadcasting](https://arxiv.org/pdf/1511.08486.pdf)," arXiv preprint, 2015.
 
 - [x] Jinliang Wei, Wei Dai, Aurick Qiao, Qirong Ho, Henggang Cui, Gregory R. Ganger, Phillip B. Gibbons, Garth A. Gibson, and Eric P. Xing,  
 "[Managed Communication and Consistency for Fast Data-Parallel Iterative Analytics](https://www.cs.cmu.edu/~epxing/papers/2015/Wei_etal_SoCC15.pdf)," SoCC, 2015.
