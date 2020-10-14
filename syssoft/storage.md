@@ -21,6 +21,9 @@
 
 ### Key-Value Stores
 
+- [x] Chen Shen, Youyou Lu, Fei Li, Weidong Liu, and Jiwu Shu,  
+"[NovKV: Efficient Garbage Collection for Key-Value Separated LSM-Stores](https://storageconference.us/2020/Papers/NovKV.pdf)," MSST, 2020.
+
 - [x] Oana Balmau, Florin Dinu, Willy Zwaenepoel, Karan Gupta, Ravishankar Chandhiramoorthi, and Diego Didona,  
 "[SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores](https://www.usenix.org/system/files/atc19-balmau.pdf)," ATC, 2019.
 
